@@ -1,2 +1,4 @@
-# Instagram-clone
-Fiz um clone do instagram utilizando React JS
+Para iniciar: 
+
+Baixar node modules: npm install
+iniciar: npm start
